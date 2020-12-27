@@ -1,0 +1,153 @@
+# The Raging Tide: or, The Black Doll's Imbroglio
+# by Edward Gorey
+# 1987
+
+1
+Skrump flung a damp sponge at Naeelah.
+If you are interested, turn to 6.
+If you aren’t, turn to 2.
+
+2
+Figbash scattered cracker crumbs on Hooglyboo.
+If this makes you uncomfortable, turn to 3.
+If it doesn’t, turn to 8.
+
+3
+Skrump thwacked Figbash with a dish mop.
+If you find this gratifying, turn to 7.
+If you don’t, turn to 4.
+
+4
+Hooglyboo poured golden syrup over Naeelah.
+If you would done the same, turn to 5.
+If you cannot condone these actions, turn to 30.
+
+5
+Naeelah stuck Hooglyboo with a mourning-ping.
+If you think she was justified, turn to 12.
+If you think she wasn’t, turn to 7.
+
+6
+Naeelah went for Skrump with a feather-duster.
+If you find this detestable, turn to 8.
+If you are charmed, turn to 10.
+
+7
+Figbash threw an antimacassar over Skrump.
+If you feel he was right to do this, turn to 9.
+If you think he was wrong, turn to 6.
+
+8
+Hooglyboo crammed Figbash inside a vase.
+If this strikes you as clever, turn to 11.
+If all this seems to terrible to contemplate, turn to 29.
+
+9
+Naeelah dropped from the chandelier onto Figbash and Skrump.
+If you find this not unamusing, turn to 17.
+If you want to benefit spiritually, turn to 15.
+
+10
+Figbash popped out at Naeelah and Strump from a valise.
+If you aren’t taken aback by this, turn to 14.
+If you are, turn to 12.
+
+11
+Naeelah erupted through the carpet between Figbash and Hooglyboo.
+If you do not find this nervous-making, turn to 13.
+If you wish it hadn’t happened, turn to 9.
+
+12
+Figbash emerged from the woodwork before Naeelah and Hooglyboo.
+If this does not upset you unduly, turn to 16.
+If you wish to be morally improved, turn to 18.
+
+13
+Figbash and Naeelah assaulted Hooglyboo with cookie-cutters.
+If you are not repelled by this, turn to 20.
+If you are, turn to 16.
+
+14
+Skrump and Figbash attacked Naeelah with buttonhooks.
+If this doesn’t make you apprehensive, turn to 19.
+If it does, turn to 17.
+
+15
+Short sheets make the bed look longer.
+If you want to go on with the story, turn to 17.
+If you would like to visit the Dogear Wryde Topiary Gardens, turn to 26.
+
+16
+Hooglyboo and Figbash dropped a lump of suet on Naeelah.
+If you want to get on with the story, turn to 24.
+If suddenly you’d rather be doing something else, turn to 29.
+
+17
+Skrump and Naeelah attempted to hinder Figbash with library paste.
+If you want to continue with the story, turn to 25.
+If you can’t wait to see how it comes out, turn to 30.
+
+18
+There’s no going to town in a bathtub.
+If you want to get back to the story, turn to 16.
+If you would like to tour the Villa Amnesia, turn to 23.
+
+19
+Naeelah and Figbash strove to impede Skrump with tintacks.
+If you want to keep on with the story, turn to 25.
+For a meaningless aside, turn to 15.
+
+20
+Naeelah and Hooglyboo dumped wet tea leaves on Figbash.
+If you wish to pursue the story, turn to 24.
+For a brilliant apophthegm, turn to 18.
+
+21
+Skrump and Naeelah and Figbash pardoned one another over stewed prunes.
+If you want to persist with the story, turn to 27.
+If you wish to correct a possible discrepancy, turn to 22.
+
+22
+Figbash and Hooglyboo and Naeelah forgave each other over boiled turnips.
+If you want to persevere with the story, turn to 28.
+If you wish to correct a possible discrepancy, turn to 21.
+
+23
+If it open to the public only one Tuesday a month.
+If you want to hark back to the story, turn to 17.
+For a stunning irrelevancy, turn to 15.
+
+24
+Naeelah and Figbash endeavoured to encase Hooglyboo in piecrust dough.
+If you dislike turnips less than you do prunes, turn to 22.
+If it is the reverse, turn to 21.
+
+25
+Figbash and Skrump essayed to throttle Naeelah with a bootlace.
+If you loathe prunes more than you do turnips, turn to 22.
+If it is the other way around, turn to 21.
+
+26
+Not long ago they were destroyed by insects.
+If you want to revert to the story, turn to 16.
+For a dazzling inconsequence, turn to 18.
+
+27
+Figbash, Naeelah, and Skrump fell upon each other with loofahs.
+If you would love a romantic ending, turn to 30.
+If you prefer an ironic one, turn to 29.
+
+28
+Naeelah, Figbash, and Hooglyboo set upon one another with sleeve garters.
+If you would like a realistic conclusion, turn to 30.
+If you would rather a preposterous one, turn to 29.
+
+29
+And then everyone went joyously to an early grave.
+-
+-
+
+30
+And so they all lived miserably for ever after.
+-
+-

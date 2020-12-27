@@ -1,0 +1,13 @@
+Python code and related data for exploring the book "The Raging Tide: or, The
+Black Doll's Imbroglio" by Edward Gorey.
+
+Files in this directory:
+- imbroglio.py: Main program. Run 'imbroglio.py --help'.
+- tide.py: Module that maintains and navigates the text of the book.
+- digraph.py: Module that maintains and explores a directed graph.
+- imbroglio.txt: Text of the book.
+- imbroglio.dot: DOT representation of the graph.
+- imbroglio.png: Graphviz representation of the graph.
+
+To visualize the graph using graphviz, run 'imbroglio.py --dot' and submit
+the output to http://graphs.grevian.org/graph
