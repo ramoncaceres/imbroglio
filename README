@@ -3,7 +3,7 @@ Black Doll's Imbroglio" by Edward Gorey.
 
 Files in this directory:
 - imbroglio.py: Main program. Run 'imbroglio.py --help'.
-- tide.py: Module that maintains and navigates the text of the book.
+- imbroglio_lib.py: Module that maintains and navigates the text of the book.
 - digraph.py: Module that maintains and explores a directed graph.
 - imbroglio.txt: Text of the book.
 - imbroglio.dot: DOT representation of the graph.
